@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771031872636",
+    "project_id": "aula1301-firebaserealtime",
+    "storage_bucket": "aula1301-firebaserealtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771031872636:android:b1ae2e8a89085aaf1f45f9",
+        "android_client_info": {
+          "package_name": "br.com.digitalhouse.aula1301_firebaserealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771031872636-pk0ht691ja462ki5hk6071tdvp0fhcrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZRjo5NjiGSPq_BPyf41XXUgwH_vDP1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771031872636-pk0ht691ja462ki5hk6071tdvp0fhcrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
